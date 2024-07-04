@@ -613,6 +613,8 @@ span{
     }
 
     .reframe{
+        padding-top: 30px;
+        padding-bottom: 30px;
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -721,6 +723,8 @@ span{
     }
 
     .reframe{
+        padding-top: 30px;
+        padding-bottom: 30px;
         display: flex;
         flex-direction: column;
         width: 100%;
