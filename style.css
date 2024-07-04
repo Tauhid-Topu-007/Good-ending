@@ -618,6 +618,16 @@ span{
     iframe{
         margin-top: 10px;
     }
+    .copyright{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .reframe h1,p{
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
 }
 
 @media(max-width:600px){
@@ -669,7 +679,7 @@ span{
     .medias{
         display: flex;
         flex-direction: column;
-        height: 220vh;
+        height: 350vh;
         justify-content: center;
         text-align: center;
         align-items: center;
@@ -714,5 +724,15 @@ span{
     }
     iframe{
         margin-top: 10px;
+    }
+    .copyright{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .reframe h1,p{
+        text-align: center;
+    }
+    h2{
+        text-align: center;
     }
 }
