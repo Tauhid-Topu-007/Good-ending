@@ -630,7 +630,7 @@ span{
     }
 
     .reframe h1{
-        padding-top: 30px;
+        margin-top: 50px;
     }
     h2{
         text-align: center;
@@ -638,7 +638,7 @@ span{
     }
 
     .subscribe-btn{
-        padding-bottom: 30px;
+        margin-bottom: 50px;
     }
 }
 
@@ -737,11 +737,11 @@ span{
 
     
     .reframe h1{
-        padding-top: 30px;
+        margin-top: 50px;
     }
 
     .subscribe-btn{
-        padding-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     iframe{
